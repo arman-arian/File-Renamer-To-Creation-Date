@@ -1,0 +1,8 @@
+C:\Users\Arman-PC\source\repos\FileRenamerToCreationDate\bin\Debug\FileRenamerToCreationDate.exe
+C:\Users\Arman-PC\source\repos\FileRenamerToCreationDate\bin\Debug\FileRenamerToCreationDate.pdb
+C:\Users\Arman-PC\source\repos\FileRenamerToCreationDate\obj\Debug\FileRenamerToCreationDate.Properties.Resources.resources
+C:\Users\Arman-PC\source\repos\FileRenamerToCreationDate\obj\Debug\FileRenamerToCreationDate.csproj.GenerateResource.cache
+C:\Users\Arman-PC\source\repos\FileRenamerToCreationDate\obj\Debug\FileRenamerToCreationDate.csproj.CoreCompileInputs.cache
+C:\Users\Arman-PC\source\repos\FileRenamerToCreationDate\obj\Debug\FileRenamerToCreationDate.exe
+C:\Users\Arman-PC\source\repos\FileRenamerToCreationDate\obj\Debug\FileRenamerToCreationDate.pdb
+C:\Users\Arman-PC\source\repos\FileRenamerToCreationDate\obj\Debug\FileRenamerToCreationDate.MainForm.resources
